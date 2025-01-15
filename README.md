@@ -1,13 +1,26 @@
-# React + Vite
+# Movie Finder & Favorites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic React-based web application that allows users to search for movies using a public movie API and curate their personalized list of favorites.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Movies: Instantly search for movies by title.
+❤️ Add to Favorites: Save your favorite movies to a personalized list.
 
-## Environment Variable Setup
+## Installation
+
+### Install Dependencies:
+
+```
+npm install
+```
+
+### Get Your Movie API Key:
+
+1. Go to [The Movie Database (TMDb)](https://developer.themoviedb.org/docs/getting-started) website.
+2. Sign up or log in to get your API key.
+
+### Environment Variable Setup
 
 To set up the API key for this project:
 
