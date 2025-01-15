@@ -4,8 +4,8 @@ A dynamic React-based web application that allows users to search for movies usi
 
 ## Features
 
-🔍 Search Movies: Instantly search for movies by title.
-❤️ Add to Favorites: Save your favorite movies to a personalized list.
+- 🔍 Search Movies: Instantly search for movies by title.
+- ❤️ Add to Favorites: Save your favorite movies to a personalized list.
 
 ## Installation
 
